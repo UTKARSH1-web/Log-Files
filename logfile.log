@@ -1,0 +1,46 @@
+2022-05-20 12:06:46,968 |DEBUG   | SwC:  Running command to Initiate a monitoring request with HM
+2022-05-20 12:06:46,968 |INFO    | HealthMonitoring:  Received monitoring request from SwC
+2022-05-20 12:06:46,968 |DEBUG   | HealthMonitoring:  Verified: Getting the time gap info
+2022-05-20 12:06:46,968 |DEBUG   | HealthMonitoring:  Verified: The time lapse is 100ms
+2022-05-20 12:06:46,968 |INFO    | HealthMonitoring:  Watching of SwC set to 100ms
+2022-05-20 12:06:46,968 |INFO    | SwC:  Verified: The timer is set for 100ms
+2022-05-20 12:06:46,968 |INFO    | SwC:  Waiting for 120 ms
+2022-05-20 12:06:46,968 |WARNING | SwC:  Did not receive interrupt message from HM
+2022-05-20 12:06:46,968 |WARNING | SwC:  Test waiting for 20ms more
+2022-05-20 12:06:46,968 |ERROR   | SwC:  Did not receive interrupt message from HM even after waiting for 140
+2022-05-20 12:06:46,968 |CRITICAL| SwC:  Test Failure: Did not receive interrupt signal even after waiting for 140 ms
+2022-05-20 12:07:21,173 |DEBUG   | SwC_testApp:  Running command to Initiate a monitoring request with HM
+2022-05-20 12:07:21,173 |INFO    | HealthMonitoring_testApp:  Received monitoring request from SwC
+2022-05-20 12:07:21,173 |DEBUG   | HealthMonitoring_testApp:  Verified: Getting the time gap info
+2022-05-20 12:07:21,173 |DEBUG   | HealthMonitoring_testApp:  Verified: The time lapse is 100ms
+2022-05-20 12:07:21,173 |INFO    | HealthMonitoring_testApp:  Watching of SwC set to 100ms
+2022-05-20 12:07:21,173 |INFO    | SwC_testApp:  Verified: The timer is set for 100ms
+2022-05-20 12:07:21,173 |INFO    | SwC_testApp:  Waiting for 120 ms
+2022-05-20 12:07:21,173 |WARNING | SwC_testApp:  Did not receive interrupt message from HM
+2022-05-20 12:07:21,173 |WARNING | SwC_testApp:  Test waiting for 20ms more
+2022-05-20 12:07:21,173 |ERROR   | SwC_testApp:  Did not receive interrupt message from HM even after waiting for 140
+2022-05-20 12:07:21,173 |CRITICAL| SwC_testApp:  Test Failure: Did not receive interrupt signal even after waiting for 140 ms
+2022-05-20 15:54:41,338 |DEBUG   | SwC_testApp:  Running command to Initiate a monitoring request with HM
+2022-05-20 15:54:41,338 |INFO    | HealthMonitoring_testApp:  Received monitoring request from SwC
+2022-05-20 15:54:41,338 |DEBUG   | HealthMonitoring_testApp:  Verified: Getting the time gap info
+2022-05-20 15:54:41,338 |DEBUG   | HealthMonitoring_testApp:  Verified: The time lapse is 100 ms
+2022-05-20 15:54:41,338 |INFO    | HealthMonitoring_testApp:  Watching of SwC set to 100 ms
+2022-05-20 15:54:41,338 |INFO    | SwC_testApp:  Verified: The timer is set for 100 ms
+2022-05-20 15:54:41,338 |INFO    | SwC_testApp:  Waiting for 120 ms
+2022-05-20 15:54:41,338 |WARNING | SwC_testApp:  Did not receive interrupt message from HM
+2022-05-20 15:54:41,338 |WARNING | SwC_testApp:  Test waiting for 20ms more
+2022-05-20 15:54:41,338 |ERROR   | SwC_testApp:  Did not receive interrupt message from HM even after waiting for 140 ms
+2022-05-20 15:54:41,338 |CRITICAL| SwC_testApp:  Test Failure: Did not receive interrupt signal even after waiting for 140 ms
+2022-05-20 16:03:07,124 |DEBUG   | SwC_testApp:  Running command to Initiate a monitoring request with HM
+2022-05-20 16:03:07,124 |INFO    | HealthMonitoring_testApp:  Received monitoring request from SwC
+2022-05-20 16:03:07,124 |INFO    | SwC_testApp:  Verified Received acknowledgement of service request
+2022-05-20 16:03:07,124 |DEBUG   | HealthMonitoring_testApp:  Verified: Getting the time gap info
+2022-05-20 16:03:07,124 |DEBUG   | HealthMonitoring_testApp:  Verified: The time lapse is 100 ms
+2022-05-20 16:03:07,124 |INFO    | HealthMonitoring_testApp:  Watching of SwC set to 100 ms
+2022-05-20 16:03:07,124 |INFO    | SwC_testApp:  Verified: The timer is set for 100 ms
+2022-05-20 16:03:07,124 |INFO    | SwC_testApp:  Waiting for 120 ms
+2022-05-20 16:03:07,124 |WARNING | SwC_testApp:  Did not receive interrupt message from HM
+2022-05-20 16:03:07,124 |DEBUG   | HealthMonitoring_testApp:  Verified: HM is Alive
+2022-05-20 16:03:07,124 |WARNING | SwC_testApp:  Test waiting for 20ms more
+2022-05-20 16:03:07,124 |ERROR   | SwC_testApp:  Did not receive interrupt message from HM even after waiting for 140 ms
+2022-05-20 16:03:07,124 |CRITICAL| SwC_testApp:  Test Failure: Did not receive interrupt signal even after waiting for 140 ms

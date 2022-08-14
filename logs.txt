@@ -1,0 +1,13 @@
+2022-05-20 12:06:46,968 |DEBUG   | SwC:  Running command to Initiate a monitoring request with HM
+2022-05-20 12:06:46,968 |DEBUG   | HealthMonitoring:  Verified: Getting the time gap info
+2022-05-20 12:06:46,968 |DEBUG   | HealthMonitoring:  Verified: The time lapse is 100ms
+2022-05-20 12:07:21,173 |DEBUG   | SwC_testApp:  Running command to Initiate a monitoring request with HM
+2022-05-20 12:07:21,173 |DEBUG   | HealthMonitoring_testApp:  Verified: Getting the time gap info
+2022-05-20 12:07:21,173 |DEBUG   | HealthMonitoring_testApp:  Verified: The time lapse is 100ms
+2022-05-20 15:54:41,338 |DEBUG   | SwC_testApp:  Running command to Initiate a monitoring request with HM
+2022-05-20 15:54:41,338 |DEBUG   | HealthMonitoring_testApp:  Verified: Getting the time gap info
+2022-05-20 15:54:41,338 |DEBUG   | HealthMonitoring_testApp:  Verified: The time lapse is 100 ms
+2022-05-20 16:03:07,124 |DEBUG   | SwC_testApp:  Running command to Initiate a monitoring request with HM
+2022-05-20 16:03:07,124 |DEBUG   | HealthMonitoring_testApp:  Verified: Getting the time gap info
+2022-05-20 16:03:07,124 |DEBUG   | HealthMonitoring_testApp:  Verified: The time lapse is 100 ms
+2022-05-20 16:03:07,124 |DEBUG   | HealthMonitoring_testApp:  Verified: HM is Alive
